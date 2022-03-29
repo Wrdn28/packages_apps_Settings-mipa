@@ -85,7 +85,6 @@
         android:title="@string/legal_information"
         settings:layout="@layout/top_level_preference_bottom" />
 
-
     <!-- Prefs below are usually hidden -->
     <!-- Regulatory labels -->
     <Preference
